@@ -1,0 +1,7 @@
+[user]
+	name = Kayla
+	email = kayla.ross@kw.com
+[color]
+	ui = true
+[push]
+	default = simple
