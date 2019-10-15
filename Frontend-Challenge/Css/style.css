@@ -1,0 +1,112 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
+body{
+  font-size: 17px;
+  font-weight:400;
+  margin: 5%;
+  background-color: black;
+  font-family: sans-serif;
+}
+
+nav {
+  font-size:14px;
+}
+
+.status_bar img {
+  width:100.17%;
+  top:0px;
+}
+
+.header {
+  font-size: 1.1em;
+}
+
+.heading {
+  float:left;
+  margin-top:18px;
+}
+
+.heading h2 {
+  margin: -2px 35px 0px 40px;
+  padding-bottom:15px;
+}
+
+.chev {
+  margin:20px 2px 0px 10px;
+}
+
+.stops {
+  margin:24px 0px 0px 0px;
+  color: #2364AA;
+
+}
+.done {
+  margin: 24px 20px 0px 0px;
+  float:right;
+}
+
+.screen {
+  width:375px;
+  height:812px;
+  background-color: #fff;
+  font-size:.85em;
+}
+
+.map {
+  padding-top: 0px;
+  width: 375px;
+  height: 150px;
+}
+
+.list {
+  height: 270px;
+  margin: 0px;
+  overflow: scroll;
+}
+
+.bus {
+  float:left;
+  width: 11%;
+  margin: 6px 0px 0px 10px;
+  padding: 2px;
+  border: .05px solid #000;
+  background-color: #dadada;
+  text-align: center;
+  clear:both;
+}
+
+.dest {
+  float:left;
+  width: 42%;
+  margin:3px;
+  padding: 6px;
+  margin-left: 10px;
+}
+
+.freq {
+  float:right;
+  width: 35%;
+  margin:1px 5px;
+  padding: 8px 0px 0px 0px;
+}
+
+h2 {
+  font-size:1.15em;
+  font-weight:600;
+  color:#000;
+  padding:7px;
+  margin: 3px;
+  text-align:center;
+}
+
+.line_items{
+  width:100%;
+  height: 35px;
+  border-bottom: 1px solid #dadada;
+}
+
+
+.
